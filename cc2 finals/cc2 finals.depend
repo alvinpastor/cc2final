@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1794101068 source:d:\codeblocks\cc2 finals\main.cpp
+	<iostream>
+	<iomanip>
+	<vector>
+	<string>
+	<fstream>
+	<limits>
+
